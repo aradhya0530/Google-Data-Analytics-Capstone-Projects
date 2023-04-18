@@ -13,4 +13,5 @@ In order to increase profits and entice casual users to switch to annual members
 A wellness startup called Bellabeat is looking for fitness tracker usage trends in order to enhance the features it offers and significantly improve the fitness situations of its consumers. The specifics of this analytical report are available. [here](./Google_DA_Capstone-Bellabeat_Case_Study/Case_study_Bellabeat-How_can_a_wellness_company_play_it_smart.md).
 
 ## Certificate of Completion
-![./Certificate of Completion](Coursera google data analytics.jpg)
+![Certificate of Completion](./Coursera_Google.jpg)
+
