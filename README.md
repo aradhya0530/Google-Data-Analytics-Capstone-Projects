@@ -4,11 +4,11 @@ The capstone projects from Coursera's Google Data Analytics Professional Certifi
 
 ## Cyclistic: How does a bike-share company navigate speedy success?
 
-In order to increase profits and entice casual users to switch to annual membership subscriptions, the bike-sharing firm Cyclistic is first looking for usage patterns between the membership kinds of its consumers. The specifics of this analytical report are available. [here](./Google_DA_Capstone_Cyclistic_Case_Study/Cyclistic_How_does_bike-share_company_navigate_speedy_success.md).
+In order to increase profits and entice casual users to switch to annual membership subscriptions, the bike-sharing firm Cyclistic is first looking for usage patterns between the membership kinds of its consumers. The specifics of this analytical report are available in this .
 
 ## Bellabeat: How can a wellness company play it smart?
 
-A wellness startup called Bellabeat is looking for fitness tracker usage trends in order to enhance the features it offers and significantly improve the fitness situations of its consumers. The specifics of this analytical report are available. [here](./Google_DA_Capstone-Bellabeat_Case_Study/Case_study_Bellabeat-How_can_a_wellness_company_play_it_smart.md).
+A wellness startup called Bellabeat is looking for fitness tracker usage trends in order to enhance the features it offers and significantly improve the fitness situations of its consumers. The specifics of this analytical report are available in this.
 
 ## Certificate of Completion
 ![Certificate of Completion](./Coursera_Google..jpg)
