@@ -1,5 +1,3 @@
-# Google-Data-Analytics-Capstone-Projects
-Two case studies under Google Data Analytics Professional Certificate
 # Google Data Analytics Professional Certificate Capstone Project
 
 The capstone projects from Coursera's Google Data Analytics Professional Certificate Course can be found in this repository. These projects are from "Track 1" of the curriculum, offering certain data sets to be examined. Two separate scenario/case studies have currently been examined here. 
