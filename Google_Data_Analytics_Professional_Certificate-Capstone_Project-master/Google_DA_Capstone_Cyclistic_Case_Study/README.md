@@ -12,6 +12,6 @@ Moreno (Director of Marketing) has set a clear goal: Design marketing strategies
 
 ### Analysis
 
-In order to analyze the usage pattern of casual and annual members, historical data has been fetched from this [link](https://divvy-tripdata.s3.amazonaws.com/index.html). This URL consists of 12 months' data of rides of both annual and casual members.
+In order to analyze the usage pattern of casual and annual members, historical data has been fetched from this [link](https://divvy-tripdata.s3.amazonaws.com/index.html). This URL consists of 12 months data of rides of both annual and casual members.
 
 Analysis of this data can be found here: [Analysis of Cyclistic members usage data](./Cyclistic_How_does_bike-share_company_navigate_speedy_success.md)
